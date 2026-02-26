@@ -3,6 +3,7 @@
 
 
 What is Wordle?
+
 Wordle is a popular daily web-based word game where players have six attempts to guess a hidden five-letter word. Using color-coded tiles (green, yellow, gray), it provides feedback on letter accuracy and placement, and is owned by The New York Times. It went viral for its simple, shareable, once-a-day format.
 
 ---
